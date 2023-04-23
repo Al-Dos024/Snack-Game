@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1641476063 source:c:\users\lenovo\onedrive\desktop\lastosnack\main.cpp
+	<graphics.h>
+	<queue>
+	<climits>
+	<stdio.h>
+	<iostream>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1641476063 source:d:\program\lastosnack\main.cpp
+	<graphics.h>
+	<queue>
+	<climits>
+	<stdio.h>
+	<iostream>
+
+1641476063 source:d:\program\1st year\1st term\snack game\main.cpp
+	<graphics.h>
+	<queue>
+	<climits>
+	<stdio.h>
+	<iostream>
+
