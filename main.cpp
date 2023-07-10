@@ -485,7 +485,6 @@ void checkkeyinput()
 
     }
 }
-// if ام الغلط طلع في قوس
 
 
 void start ()
